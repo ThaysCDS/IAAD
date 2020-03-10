@@ -1,0 +1,2 @@
+﻿Delete o banco de dados criado
+DROP DATABASE base_vendas
